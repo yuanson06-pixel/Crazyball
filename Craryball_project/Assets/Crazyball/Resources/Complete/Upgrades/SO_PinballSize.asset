@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Crazyball.CourseKit.Upgrades.UpgradeDefinition
   upgradeId: ingame.pinball.size
   displayName: Wide Impact
-  description: Increase pinball size and hit coverage.
+  description: "\uACF5\uC774 \uCEE4\uC9D1\uB2C8\uB2E4."
   icon: {fileID: 0}
   category: 0
   effectType: 9
