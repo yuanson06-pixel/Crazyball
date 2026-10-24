@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268504c250dd6624391bff205df5ca52, type: 3}
+  m_Name: SO_PlayerWidth
+  m_EditorClassIdentifier: Assembly-CSharp::Crazyball.CourseKit.Upgrades.UpgradeDefinition
+  upgradeId: ingame.player.width
+  displayName: Wide Paddle
+  description: Increase the player's horizontal catch width.
+  icon: {fileID: 0}
+  category: 0
+  effectType: 10
+  maxLevel: 3
+  costs: 030000000500000007000000
+  effectValues:
+  - 1.2
+  - 1.4
+  - 1.65
+  requiredPersistentUnlock: {fileID: 0}
